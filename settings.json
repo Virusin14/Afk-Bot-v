@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Virusin14.aternos.me",
+    "port": 20987,
     "version": "1.19.3"
   },
 
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "12345678"
+      "enabled": true,
+      "password": "Virusin@14"
     },
 
     "anti-afk": {
